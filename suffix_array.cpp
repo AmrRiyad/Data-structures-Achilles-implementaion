@@ -1,3 +1,10 @@
+#include <bits/stdc++.h>
+
+using namespace std;
+
+#define pii pair<int,int>
+#define  N 100000
+
 int RMQ[N][19];
 int n;
 
